@@ -1,5 +1,5 @@
 package com.sl.mk.cf.PDFGenerator;
-sssssssssss
+
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
